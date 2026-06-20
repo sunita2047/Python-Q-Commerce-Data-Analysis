@@ -1,0 +1,150 @@
+Order_ID,Company,City,Customer_Age,Order_Value,Delivery_Time_Min,Distance_Km,Items_Count,Product_Category,Payment_Method,Customer_Rating,Discount_Applied,Delivery_Partner_Rating
+1000001,Swiggy Instamart,Noida,46,702.3375,19.182,11.97,12,Dairy,Wallet,2.1,1,3.2
+1000002,Flipkart Minutes,Amritsar,56,1007.3,19.644,12.74,10,Snacks,Cash on Delivery,2.3,0,3.2
+1000003,Flipkart Minutes,Mumbai,18,1211.66,16.91,4.85,,Personal Care,Cash on Delivery,3.3,0,3.8
+1000004,Swiggy Instamart,Delhi,23,1179.05925,5.864,6.44,2,Dairy,Credit Card,5,1,5
+1000005,Dunzo,Mumbai,44,586.0255,12.47,2.45,13,Household,Wallet,3.7,0,4.8
+1000006,Jio Mart,Kolkata,57,263.0835,19.738,1.23,15,Snacks,UPI,3.1,0,4.9
+1000007,Blinkit,Bengluru,37,516.8648,18.476,12.46,19,Snacks,Debit Card,2.8,0,
+1000008,Dunzo,Chennai,49,291.745,10.916,4.86,2,Personal Care,Credit Card,3.4,0,4.9
+1000009,Flipkart Minutes,Bengluru,26,763.02,18.174,10.29,5,Beverages,Wallet,2.5,0,2.7
+1000010,Swiggy Instamart,Chennai,45,912.847,11.238,3.73,15,Groceries,Cash on Delivery,1.6,0,4
+1000011,Blinkit,Hyderabad,25,446.8176,12.838,4.73,12,Beverages,Debit Card,3.5,0,4.4
+1000012,Swiggy Instamart,Pune,47,1143.215,15.146,6.91,15,Snacks,Cash on Delivery,4.8,0,4.9
+1000013,Amazon Now,Haridwar,18,97.658,27.804,6.34,10,Beverages,Cash on Delivery,2.4,0,2.6
+1000014,Blinkit,Noida,48,1599.5586,9.978,1.63,16,Beverages,Debit Card,2.6,1,4.5
+1000015,Blinkit,Amritsar,46,712.2384,18.226,13.71,9,Household,Credit Card,4.1,0,4.5
+1000016,Big Basket,Bengluru,29,50,18.978,11.63,4,Beverages,Debit Card,2.4,0,4.1
+1000017,Flipkart Minutes,Hyderabad,48,50,17.386,12.31,14,Household,Credit Card,1.7,1,4.6
+1000018,Zepto,Delhi,23,1041.42975,5,14.74,18,Snacks,Wallet,,1,
+1000019,Jio Mart,Haridwar,29,539.8805,34.636,11.06,13,Dairy,Wallet,1,0,2.6
+1000020,Jio Mart,Jaipur,25,50,27.156,10.26,3,Beverages,Credit Card,2.5,0,2.8
+1000021,Jio Mart,Chennai,20,50,24.976,9.96,13,Snacks,Debit Card,1,0,2.5
+1000022,Blinkit,,41,716.8986,17.804,11.34,7,Beverages,Credit Card,2.7,1,3.6
+1000023,Jio Mart,Delhi,48,50,8.498,0.83,3,Snacks,Cash on Delivery,3.1,0,
+1000024,Flipkart Minutes,Noida,19,934.74,19.592,14.32,16,Beverages,Debit Card,3.1,1,4.8
+1000025,Swiggy Instamart,Noida,24,1147.9395,20.01,13.35,5,Beverages,UPI,5,1,3
+1000026,Blinkit,Haridwar,32,91.2048,29.5,12.5,9,Household,Wallet,4.8,0,2.6
+1000027,Jio Mart,Kolkata,27,690.88425,20.274,3.79,13,Fruits & Vegetables,Credit Card,2.5,1,3.1
+1000028,Zepto,Hyderabad,43,50,12.14,11.9,19,Snacks,Credit Card,3.5,1,3.5
+1000029,Jio Mart,Haridwar,30,516.62175,34.382,8.97,4,Groceries,Cash on Delivery,2.2,1,2.5
+1000030,Zepto,Mumbai,57,539.09325,7.582,5.97,4,Beverages,Debit Card,3.4,1,4.7
+1000031,Swiggy Instamart,Delhi,33,680.7225,9.244,13.74,3,Snacks,Credit Card,,0,4.9
+1000032,Dunzo,Chennai,25,1267.3665,14.518,7.53,8,Household,Wallet,1,1,4.1
+1000033,Amazon Now,Bengluru,34,178.2936,16.02,1.7,7,Household,UPI,3.5,1,4.2
+1000034,Dunzo,Bengluru,31,258.6305,13.42,5.7,6,Beverages,Debit Card,4.7,0,2.9
+1000035,Dunzo,Chennai,37,506.065,17.316,13.86,14,Household,Credit Card,3.4,0,2.8
+1000036,Dunzo,Noida,24,50,15.124,8.54,1,Fruits & Vegetables,Cash on Delivery,1.2,0,4
+1000037,Jio Mart,Bengluru,42,576.567,25.988,9.98,14,Snacks,Debit Card,3.9,1,3.8
+1000038,Dunzo,Mumbai,43,851.2365,17.03,10.05,14,Groceries,Cash on Delivery,4.3,1,2.9
+1000039,Swiggy Instamart,Hyderabad,20,537.1765,12.696,1.16,6,Personal Care,Credit Card,3.1,0,4.1
+1000040,Big Basket,Gurgaon,22,1227.8664,22.856,14.76,14,Household,Debit Card,3.8,1,3.1
+1000041,Jio Mart,Pune,33,782.493,27.97,14.95,16,Fruits & Vegetables,Cash on Delivery,1.2,1,
+1000042,Flipkart Minutes,Hyderabad,25,522.85,13.146,1.91,5,Dairy,Cash on Delivery,1.3,0,4
+1000043,Jio Mart,Hyderabad,31,422.144,21.84,6.4,16,Groceries,Debit Card,2.2,0,4.6
+1000044,Zepto,,51,543.4485,5,2.32,8,Snacks,UPI,2.5,0,3.1
+1000045,Dunzo,Bengluru,58,557.5005,18.71,12.85,6,Groceries,Credit Card,3.7,0,4.4
+1000046,Blinkit,Hyderabad,21,483.57,15.29,7.15,13,Personal Care,Debit Card,5,0,2.9
+1000047,Swiggy Instamart,Amritsar,26,828.7015,18.032,11.72,19,Snacks,Credit Card,3.7,0,
+1000048,Zepto,Bengluru,40,1300.332,13.388,13.98,6,Personal Care,UPI,2.4,1,3.3
+1000049,Dunzo,Jaipur,45,333.873,16.468,5.78,12,Fruits & Vegetables,Debit Card,3.4,1,2.8
+1000050,Amazon Now,Noida,37,889.3278,19.3,10.5,14,Dairy,UPI,2.8,1,2.9
+1000051,Jio Mart,Delhi,46,50,14.81,11.35,12,Beverages,Wallet,2.8,0,4
+1000052,Big Basket,Amritsar,31,1042.3737,22.784,14.64,8,Household,Debit Card,3.2,1,2.9
+1000053,Flipkart Minutes,Mumbai,30,580.35,13.116,1.86,15,Personal Care,UPI,4.8,0,4.4
+1000054,Blinkit,Gurgaon,26,1548.7218,13.68,7.8,17,Household,UPI,3.2,1,3
+1000055,Flipkart Minutes,,55,1023.03,13.936,1.56,5,Household,UPI,1.8,1,3.7
+1000056,Dunzo,Pune,43,1539.285,13.724,9.54,12,Personal Care,Debit Card,2,1,4.3
+1000057,Swiggy Instamart,Jaipur,40,262.71,22.35,12.25,3,Household,Debit Card,1.2,0,3.9
+1000058,Flipkart Minutes,Mumbai,54,50,13.54,0.9,8,Beverages,UPI,1.7,0,3.5
+1000059,Jio Mart,Jaipur,35,695.7615,22.188,1.98,13,Personal Care,Credit Card,3.8,0,4.2
+1000060,Amazon Now,,53,275.5368,21.304,13.84,3,Groceries,Cash on Delivery,1.1,0,3.6
+1000061,Swiggy Instamart,Pune,26,306.774,15.012,5.02,17,Household,Credit Card,,1,3.7
+1000062,Amazon Now,,45,364.56,21.266,12.11,10,Beverages,Cash on Delivery,1,0,4.3
+1000063,Swiggy Instamart,Bengluru,56,50,21.532,14.22,15,Snacks,Credit Card,2.2,0,2.6
+1000064,Zepto,Pune,38,229.173,5,0.7,5,Beverages,Cash on Delivery,4,0,4.4
+1000065,Zepto,Amritsar,19,809.62875,7.03,5.05,9,Household,UPI,4.6,1,2.8
+1000066,Big Basket,Amritsar,25,437.3046,22.82,14.7,3,Groceries,Credit Card,3,0,3.4
+1000067,Amazon Now,Delhi,47,997.4337,11.772,14.62,6,Snacks,Cash on Delivery,2.9,1,4.8
+1000068,Flipkart Minutes,Mumbai,25,698.42,16.806,8.01,18,Groceries,UPI,3.3,0,
+1000069,Swiggy Instamart,Delhi,31,924.20775,5,2.1,13,Beverages,UPI,1.9,1,4.1
+1000070,Jio Mart,Chennai,27,517.446,22.844,9.74,16,Dairy,Credit Card,1,0,4.4
+1000071,Big Basket,Hyderabad,23,50,21.376,13.96,4,Dairy,Credit Card,4.2,1,
+1000072,Dunzo,Mumbai,18,365.92,10.878,3.13,19,Snacks,Debit Card,2.3,0,3.9
+1000073,Zepto,Noida,45,717.236,5,1.37,14,Groceries,Credit Card,3.2,0,2.5
+1000074,Zepto,Bengluru,33,50,8.912,6.52,12,Household,Debit Card,5,1,3.1
+1000075,Jio Mart,Chennai,53,670.30575,24.414,10.69,10,Snacks,UPI,4.2,1,4.3
+1000076,Blinkit,Mumbai,54,512.22,13.942,1.57,18,Household,UPI,2.8,0,4.2
+1000077,Jio Mart,Mumbai,33,371.4875,25.264,10.44,17,Snacks,Wallet,4.5,0,3.1
+1000078,Blinkit,Pune,47,179.0748,13.906,6.51,2,Personal Care,Cash on Delivery,3.5,1,3.9
+1000079,Flipkart Minutes,Bengluru,24,692.88,16.42,5.7,13,Fruits & Vegetables,Cash on Delivery,1.7,1,3.6
+1000080,Zepto,Gurgaon,41,1312.8525,7.026,6.71,8,Household,Wallet,4.4,0,3.1
+1000081,Amazon Now,Noida,30,50,18.588,10.98,4,Household,UPI,1.1,0,4.9
+1000082,Dunzo,Noida,57,247.83525,14.788,7.98,8,Dairy,Wallet,3.9,1,4
+1000083,Jio Mart,Mumbai,40,128.0135,22.71,7.85,,Personal Care,Debit Card,2.5,0,2.6
+1000084,Swiggy Instamart,Bengluru,55,568.90725,14.698,7.83,17,Groceries,Credit Card,,1,4.1
+1000085,Zepto,Haridwar,33,50,14.396,0.66,17,Groceries,Debit Card,3.7,1,4.9
+1000086,Dunzo,Haridwar,39,296.79075,23.194,1.99,16,Fruits & Vegetables,Wallet,2.8,1,4.1
+1000087,Swiggy Instamart,Amritsar,55,739.1395,13.914,3.19,8,Personal Care,UPI,4,0,4
+1000088,Amazon Now,Mumbai,19,172.2078,22.996,11.66,19,Groceries,UPI,4.4,0,2.8
+1000089,Swiggy Instamart,Noida,51,1329.237,12.462,0.77,14,Household,UPI,3.4,1,3
+1000090,Jio Mart,Delhi,55,489.701,17.436,14.06,8,Dairy,Debit Card,1.7,0,
+1000091,Swiggy Instamart,Delhi,30,1143.931,6.036,10.06,9,Personal Care,Cash on Delivery,2.6,0,4.7
+1000092,Swiggy Instamart,Chennai,45,1575.52875,12.344,2.24,15,Snacks,Credit Card,4,1,3.5
+1000093,Blinkit,Amritsar,55,398.5848,18.094,13.49,1,Snacks,Debit Card,2.3,0,3.7
+1000094,Swiggy Instamart,Hyderabad,31,926.5665,18.856,14.76,6,Dairy,Debit Card,3.8,0,3.4
+1000095,Swiggy Instamart,Haridwar,39,452.4585,28.302,12.17,1,Groceries,Cash on Delivery,5,0,4.9
+1000096,Jio Mart,Gurgaon,50,1215.606,27.592,14.32,9,Fruits & Vegetables,UPI,1.9,1,3.7
+1000097,Jio Mart,Noida,54,447.7305,26.506,12.51,9,Fruits & Vegetables,Wallet,3.6,0,
+1000098,Amazon Now,Mumbai,23,161.2035,17.504,5.84,2,Fruits & Vegetables,UPI,4.6,1,3.3
+1000099,Dunzo,Gurgaon,42,50,12.296,7.16,3,Fruits & Vegetables,Credit Card,3.8,1,2.7
+1000100,Dunzo,Haridwar,28,661.5365,25.978,11.63,11,Personal Care,Cash on Delivery,2.6,0,4
+1000101,Jio Mart,Chennai,44,50,17.702,1.17,9,Snacks,Debit Card,1.8,1,4.7
+1000102,Blinkit,Gurgaon,52,1455.9768,10.676,4.46,8,Groceries,Credit Card,2.8,1,4.8
+1000103,Amazon Now,Pune,39,983.43,20.916,9.86,2,Dairy,Cash on Delivery,2.9,1,4.5
+1000104,Big Basket,Mumbai,59,444.0588,21.362,12.27,6,Household,UPI,3.7,0,3.7
+1000105,Jio Mart,Amritsar,34,111.8345,23.378,10.63,11,Snacks,UPI,4.3,0,4.8
+1000106,Dunzo,Chennai,23,206.89575,11.876,6.46,10,Fruits & Vegetables,Debit Card,3.8,1,3.4
+1000107,Amazon Now,Kolkata,52,329.2212,21.492,10.82,9,Household,Wallet,4.6,0,2.7
+1000108,Flipkart Minutes,Chennai,35,228.65,18.264,10.44,1,Fruits & Vegetables,Debit Card,3.9,0,3.7
+1000109,Dunzo,Bengluru,56,408.49425,14.002,6.67,2,Snacks,Credit Card,2.9,1,4.4
+1000110,Swiggy Instamart,Chennai,22,302.1855,16.832,9.72,11,Dairy,Cash on Delivery,4.7,0,4.5
+1000111,Dunzo,Pune,18,953.6385,15.912,11.52,3,Household,Cash on Delivery,2.1,1,3.5
+1000112,Dunzo,Mumbai,53,866.4275,16.09,10.15,9,Beverages,Credit Card,3.3,0,3.7
+1000113,Dunzo,Pune,48,549.442,13.148,8.58,14,Snacks,Cash on Delivery,3.4,0,4.5
+1000114,Big Basket,Pune,47,654.9165,15.51,5.85,19,Groceries,Debit Card,3.4,1,4.8
+1000115,Jio Mart,Amritsar,38,266.6365,20.81,6.35,2,Dairy,UPI,3.8,0,3.5
+1000116,Amazon Now,Chennai,52,672.4662,17.61,4.35,,Snacks,Cash on Delivery,3.3,0,
+1000117,Amazon Now,Haridwar,25,413.6296,29.428,7.38,19,Dairy,Cash on Delivery,3.5,0,3.3
+1000118,Flipkart Minutes,Jaipur,57,638.1,20.162,5.27,18,Snacks,Cash on Delivery,4.1,1,
+1000119,Big Basket,Mumbai,26,625.0476,23.5,12.5,1,Personal Care,Wallet,4.5,0,2.6
+1000120,Amazon Now,Chennai,33,50,14.492,0.82,2,Fruits & Vegetables,Credit Card,4.4,1,
+1000121,Dunzo,Amritsar,38,92.34,11.432,5.72,19,Dairy,Wallet,1.7,1,4.7
+1000122,Dunzo,Kolkata,59,1009.7265,13.566,7.61,2,Dairy,Debit Card,1.2,1,3.9
+1000123,Swiggy Instamart,Amritsar,45,806.6675,19.152,11.92,8,Personal Care,Cash on Delivery,2.4,0,3.4
+1000124,Dunzo,Haridwar,48,539.283,28.658,14.43,10,Household,Credit Card,3.8,1,3.2
+1000125,Blinkit,,22,974.8296,18.218,12.03,6,Snacks,UPI,2.4,0,3.7
+1000126,Zepto,Gurgaon,40,603.777,8.974,8.29,3,Household,Credit Card,5,0,2.7
+1000127,Big Basket,Bengluru,45,350.6942,15.752,2.92,1,Groceries,Cash on Delivery,1.7,0,2.9
+1000128,Big Basket,Delhi,22,650.9188,5,2.28,8,Beverages,Wallet,2.6,0,
+1000129,Zepto,Mumbai,39,988.4715,11.77,7.95,14,Snacks,Wallet,2.8,0,4.8
+1000130,Zepto,Noida,47,731.559,5,3.25,1,Snacks,UPI,4.4,1,4.5
+1000131,Swiggy Instamart,Gurgaon,54,329.116,17.086,11.81,4,Household,Cash on Delivery,3.8,0,3.8
+1000132,Big Basket,Haridwar,25,223.485,28.396,5.66,10,Household,Wallet,2.4,0,2.9
+1000133,Jio Mart,Jaipur,42,123.227,30.034,13.39,7,Groceries,Debit Card,3.6,0,3.6
+1000134,Big Basket,Noida,43,1371.7875,14.722,2.87,9,Groceries,UPI,5,1,4.1
+1000135,Flipkart Minutes,Haridwar,43,50,27.544,9.24,1,Beverages,UPI,4.8,0,4
+1000136,Dunzo,Pune,26,59.9545,9.086,1.81,10,Fruits & Vegetables,Cash on Delivery,3,0,2.7
+1000137,Swiggy Instamart,Haridwar,44,1366.635,25.518,2.53,9,Fruits & Vegetables,UPI,2.7,1,3.1
+1000138,Zepto,Hyderabad,25,290.66625,12.352,13.92,14,Fruits & Vegetables,Cash on Delivery,1.6,1,
+1000139,Dunzo,Pune,52,1156.54425,17.878,13.13,19,Snacks,Cash on Delivery,,1,2.8
+1000140,Zepto,Chennai,37,443.5935,13.004,13.34,19,Dairy,Cash on Delivery,2.2,0,
+1000141,Amazon Now,Amritsar,36,1071.5124,19.052,8.42,6,Dairy,Cash on Delivery,1.3,1,3.9
+1000142,Amazon Now,Pune,52,818.7802,16.386,2.31,19,Snacks,Credit Card,3.4,0,2.9
+1000143,Amazon Now,Amritsar,45,113.8858,19.126,10.21,8,Beverages,Wallet,2.2,0,2.9
+1000144,Amazon Now,,19,807.1623,20.584,12.64,4,Beverages,Cash on Delivery,1.6,1,2.6
+1000145,Amazon Now,Mumbai,41,311.7206,21.286,8.81,4,Household,Cash on Delivery,3.7,0,3.3
+1000146,Flipkart Minutes,Gurgaon,48,293.93,14.176,1.96,8,Dairy,Debit Card,2.7,0,2.9
+1000147,Dunzo,,21,884.298,13.544,9.24,4,Snacks,Debit Card,2.2,1,2.6
+1000148,Dunzo,Chennai,29,1306.59675,12.88,9.8,1,Groceries,Cash on Delivery,1,1,2.8
+1000149,Swiggy Instamart,Bengluru,37,50,18.904,9.84,18,Groceries,UPI,3.8,0,
